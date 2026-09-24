@@ -3,6 +3,7 @@ description: Things I have coded over the years, discoveries, and the workaround
 url: https://enz0z.github.io
 theme: jekyll-theme-hacker
 lang: en
+author: Enz0Z
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
@@ -10,4 +11,4 @@ defaults:
   - scope:
       type: posts
     values:
-      layout: default
+      layout: post
