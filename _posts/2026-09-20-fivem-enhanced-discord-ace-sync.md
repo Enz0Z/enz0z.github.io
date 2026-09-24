@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Syncing Discord roles to ACE permissions on FiveM Enhanced (a temporary workaround)"
-date: 2026-09-24
+date: 2026-09-20
 tags: [fivem, esx, lua, txadmin, discord]
 ---
 
