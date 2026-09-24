@@ -1,0 +1,13 @@
+title: Enz0Z
+description: Things I have coded over the years, discoveries, and the workarounds that kept me going.
+url: https://enz0z.github.io
+theme: jekyll-theme-hacker
+lang: en
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+defaults:
+  - scope:
+      type: posts
+    values:
+      layout: default
